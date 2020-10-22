@@ -1,2 +1,4 @@
 It is now 334PM
 How are you holding up?!
+
+Now I'm editing it here on the Github site.  What happens now when I got back down to the CLI?
