@@ -1,0 +1,9 @@
+one
+two
+<<<<<<< HEAD
+three from master
+=======
+three (from second-branch)
+>>>>>>> second-branch
+I'm adding this right now
+I'm adding the 2nd one right now
